@@ -28,7 +28,7 @@ Module 18 Challenge Assignment: NoSQL Challenge: Social Network API
 
 ## Description
 
----------INSERT DESCRIPTION--------
+An API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list.
 
 ## User Story
 ```
@@ -74,11 +74,11 @@ Thought + Reactions <br>
 - `/api/thoughts` to get all thoughts or create thought
 - `/api/thoughts/:thoughtId` to get one thought, update or delete. 
 - `/api/thoughts/:thoughtId/reactions` to create reaction 
-- `/api/thoughts/:thoughtId/reactions/:reactionId` to delete reaction 
-5. When finished, run CONTROL-C in terminal to end stop nodemon, and trash the session. 
+- `/api/thoughts/:thoughtId/reactions?reactionId=` to delete reaction 
+5. When finished, run CONTROL-C in terminal to end and trash the session. 
 
 <br>
-Please check out this [video]---------INSERT DEMO VIDEO-------- to view a demonstration of how to use this program. 
+Please check out this [video] (https://drive.google.com/file/d/1opY3BH_J3iSpYGSwvKnSIj8PnLTplf--/view) to view a demonstration of how to use this program. 
 <br>
 
 ## Screenshots of Application in Use
