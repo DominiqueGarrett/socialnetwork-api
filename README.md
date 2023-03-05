@@ -78,7 +78,7 @@ Thought + Reactions <br>
 5. When finished, run CONTROL-C in terminal to end and trash the session. 
 
 <br>
-Please check out this [video] (https://drive.google.com/file/d/1opY3BH_J3iSpYGSwvKnSIj8PnLTplf--/view) to view a demonstration of how to use this program. 
+Please check out this [video](https://drive.google.com/file/d/1opY3BH_J3iSpYGSwvKnSIj8PnLTplf--/view) to view a demonstration of how to use this program. 
 <br>
 
 ## Screenshots of Application in Use
