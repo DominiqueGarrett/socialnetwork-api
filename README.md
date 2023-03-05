@@ -62,9 +62,10 @@ An API for a social network web application where users can share their thoughts
 
 
 ## Setup
-Integrated Terminal —> 	mongod
-				                npm i
-				                npm start
+Integrated Terminal: 	
+* mongod
+* npm i
+* npm start
         
         
 ## Usage
