@@ -27,8 +27,8 @@ Module 18 Challenge Assignment: NoSQL Challenge: Social Network API
 
 
 ## Description
-
 An API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list.
+
 
 ## User Story
 ```
@@ -36,6 +36,7 @@ An API for a social network web application where users can share their thoughts
     I WANT an API for my social network that uses a NoSQL database
     SO THAT my website can handle large amounts of unstructured data
 ```
+
 
 ## Acceptance Criteria 
 ```
@@ -52,15 +53,21 @@ An API for a social network web application where users can share their thoughts
     
 
 ## Installation
- 
----------INSERT INSTALLATION--------
+- Step 1: Clone this repository. you can do this by running ``` git clone git@github.com:DominiqueGarrett/socialnetwork-api.git``` in your terminal
+- Step 2: Install dependencies by running the ``` npm install ``` command in the command line
+- Step 3: Open your code editor by running the command ``` code . ```
+- step 4: Start the server by running ``` npm start ``` in the terminal
+- step 5: - Open any application that simplifies the interaction and design of HTTP-based APIs like [insomnia](https://insomnia.rest/download)
+- step 6: Create, read, update, and delete Users, thoughts, and reactions using endpoints in usage
+
 
 ## Setup
-
----------INSERT SETUP--------
-
+Integrated Terminal —> 	mongod
+				                npm i
+				                npm start
+        
+        
 ## Usage
-
 After following the instructions in installation: 
 1. Open the "index.js" file in your integrated terminal.
 2. Run command "npm run seed" to seed users into your database.
@@ -77,19 +84,25 @@ Thought + Reactions <br>
 - `/api/thoughts/:thoughtId/reactions?reactionId=` to delete reaction 
 5. When finished, run CONTROL-C in terminal to end and trash the session. 
 
-<br>
 Please check out this [video](https://drive.google.com/file/d/1opY3BH_J3iSpYGSwvKnSIj8PnLTplf--/view) to view a demonstration of how to use this program. 
-<br>
+
 
 ## Screenshots of Application in Use
 
----------INSERT SCREENSHOTS--------
+![image](https://user-images.githubusercontent.com/114618684/222947962-c6486534-200f-4b35-a1ec-6b85195f15e4.gif)
 
+![image](https://user-images.githubusercontent.com/114618684/222947967-9b5bdc2d-cf37-401a-b2ec-d67053cb8feb.gif)
+
+![image](https://user-images.githubusercontent.com/114618684/222947977-0305568e-3b80-4fad-a14d-2a6f3ba7283b.gif)
 
 
 ## Technologies
+* [Node.js](https://nodejs.org/en/)
+* [Express.js](https://expressjs.com)
+* [MongoDB](https://www.mongodb.com)
+* [Mongoose](https://mongoosejs.com/docs/)
+* [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
----------INSERT TECHNOLOGIES--------
 
   ## How to Contribute
   [Contributor Covenant](https://www.contributor-covenant.org/)  
